@@ -1,4 +1,4 @@
 # Books
-- [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+- [Clojure for the Brave and True](https://github.com/keer2345/clojure-learning/tree/master/clojure-for-the-brave-and-true)
 
 # Articles
