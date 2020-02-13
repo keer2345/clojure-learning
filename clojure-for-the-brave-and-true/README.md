@@ -1,0 +1,13 @@
+# Clojure for the Brave and True
+
+> https://www.braveclojure.com/clojure-for-the-brave-and-true/
+
+
+For weeks, months—nay!—from the very moment you were born, you’ve felt it calling to you. At long last you'll be united with the programming language you've been longing for: Clojure!
+
+Clojure’s popularity continues to grow, with companies like Netflix using it to build everything from complex, distributed systems to simple microservices to user interfaces. In *Clojure for the Brave and True*, you'll learn to wield this awesome language to its fullest! 
+
+**Table of Contents**
+
+0. Front Matter
+0. Building, Running, and the REPL
