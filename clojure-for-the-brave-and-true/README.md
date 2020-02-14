@@ -15,4 +15,4 @@ Clojure’s popularity continues to grow, with companies like Netflix using it t
 
 0. [Front Matter](https://github.com/keer2345/clojure-learning/blob/master/clojure-for-the-brave-and-true/ch00.md)
 0. [Building, Running, and the REPL](https://github.com/keer2345/clojure-learning/blob/master/clojure-for-the-brave-and-true/ch01.md)
-
+0. [How to Use Emacs, an Excellent Clojure Editor](https://github.com/keer2345/clojure-learning/blob/master/clojure-for-the-brave-and-true/ch02.md)
