@@ -11,3 +11,4 @@
 1. [State and Concurrency](https://github.com/keer2345/clojure-learning/blob/master/living-clojure/ch03.md)
 1. [Java Interop and Polymorphism](https://github.com/keer2345/clojure-learning/blob/master/living-clojure/ch04.md)
 1. [How to Use Clojure Projects and Libraries](https://github.com/keer2345/clojure-learning/blob/master/living-clojure/ch05.md)
+1. [Communication with core.async](https://github.com/keer2345/clojure-learning/blob/master/living-clojure/ch06.md)
