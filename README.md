@@ -2,7 +2,7 @@
 - [Clojure for the Brave and True](https://github.com/keer2345/clojure-learning/tree/master/clojure-for-the-brave-and-true)
 - [Transforming Data with ClojureScript](http://langintro.com/cljsbook/)
 - [Living Clojure](https://github.com/keer2345/clojure-learning/blob/master/living-clojure/README.md)
-- The Joy of Clojure 2nd
+- [The Joy of Clojure 2nd](https://github.com/keer2345/clojure-learning/blob/master/the-joy-of-clojure/README.md)
 - [Clojure Web Development Made Simple](https://luminusweb.com/docs/guestbook)
 
 # Article
